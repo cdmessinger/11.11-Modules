@@ -14,4 +14,4 @@ divide(7, 6);
 
 yell("ahhhhhhhhhhhh");
 
-sarcasm("i know you are but what am I?");
+sarcasm("i know you are but what am i?");

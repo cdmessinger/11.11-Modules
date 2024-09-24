@@ -8,7 +8,7 @@ export function sarcasm(str) {
           if (i % 2 === 0) {
                newStr += str[i].toUpperCase();
           } else {
-               newStr += str[i];
+               newStr += str[i].toLowerCase();
           }
      }
      console.log(newStr);
